@@ -1,0 +1,9 @@
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\obj\Release\Ranchargen.csprojResolveAssemblyReference.cache
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\obj\Release\Ranchargen.Form1.resources
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\obj\Release\Ranchargen.Properties.Resources.resources
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\obj\Release\Ranchargen.csproj.GenerateResource.Cache
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\obj\Release\Ranchargen.Setting.resources
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\bin\Release\随机字符生成器.exe
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\bin\Release\随机字符生成器.pdb
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\obj\Release\随机字符生成器.exe
+d:\users\haan\文档\visual studio 2013\Projects\PracticeTyping\Ranchargen\obj\Release\随机字符生成器.pdb
